@@ -1,0 +1,194 @@
+html,
+body {
+    overflow-x: hidden;
+}
+
+body {
+    background-color: rgb(245, 242, 242);
+    overflow-x: hidden;
+
+}
+
+
+.jumbotron {
+    padding-top: 8rem;
+    padding-bottom: 4rem;
+    background: linear-gradient(90deg, #4000e1, #3e1e59 86%);
+    color: white;
+
+
+}
+
+
+.jumbotron .tulis {
+    padding-top: 2rem;
+    margin-top: 6rem;
+
+}
+
+.jumbotron h3 {
+    margin-top: 35px;
+    font-style: italic;
+}
+
+h1 {
+    font-size: calc(4vw + 13px);
+    margin: 10px auto;
+}
+
+/* about */
+#aboutme {
+    width: 100%;
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+
+
+
+}
+
+.inidia {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+#about img {
+    margin-right: -100px;
+}
+
+hr {
+    width: 120px;
+    margin: 0 auto;
+
+
+}
+
+
+
+
+/* akhir about */
+#project {
+    background: linear-gradient(90deg, #4000e1, #3e1e59 86%);
+    padding-top: 4rem;
+    margin-top: 20px;
+
+
+
+}
+
+#project h2 {
+    color: white;
+
+}
+
+.putih {
+    border-bottom: 1px solid white;
+    width: 120px;
+    margin: auto;
+
+}
+
+.judul {
+    font-weight: bold;
+}
+
+.explain {
+    text-align: justify;
+}
+
+.link {
+    color: black;
+    text-decoration: none;
+    border: 3px solid black;
+    border-radius: 10px;
+    padding: 3px 60px;
+
+}
+
+.link2 {
+    color: black;
+    text-decoration: none;
+    border: 3px solid black;
+    border-radius: 10px;
+    padding: 3px 40px;
+
+}
+
+.link3 {
+    color: black;
+    text-decoration: none;
+    border: 3px solid black;
+    border-radius: 10px;
+    padding: 3px 100px;
+
+}
+
+
+.link:hover {
+    color: red;
+}
+
+.link2:hover {
+    color: red;
+}
+
+.link3:hover {
+    color: red;
+}
+
+
+
+
+/* award */
+#Award {
+    width: 100%;
+    background-color: white;
+    padding-top: 4rem;
+    padding-bottom: 6rem;
+
+}
+
+
+
+/* akhir award */
+
+
+
+
+/* contact */
+#contact {
+    padding: 70px 0;
+    background: linear-gradient(90deg, #4000e1, #3e1e59 86%);
+    color: white;
+
+}
+
+#contact h2 {
+    font-size: 8vw;
+}
+
+.wrapper a {
+    text-decoration: none;
+    margin: 0 30px;
+    position: relative;
+    top: 40px;
+}
+
+/* akhir contact */
+
+/* created */
+
+.created {
+    width: 100vw;
+    background-color: #333;
+    color: white;
+
+    padding: 5px;
+}
+
+.created p {
+    font-size: 1.3vw;
+}
+
+
+
+/* akhir created */
