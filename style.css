@@ -80,6 +80,10 @@ hr {
 
 }
 
+.marginc {
+    margin: 0 9.2vw;
+}
+
 .putih {
     border-bottom: 1px solid white;
     width: 120px;
